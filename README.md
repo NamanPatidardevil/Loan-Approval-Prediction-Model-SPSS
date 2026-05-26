@@ -1,6 +1,5 @@
-# Loan-Approval-Prediction-Model-SPSS
+# Loan-Approval-Prediction-Model-SPSS Modeler
 
-# Loan Approval Prediction using IBM SPSS Modeler
 
 ## 📌 Project Overview
 
